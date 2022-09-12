@@ -156,3 +156,6 @@ body {
     font-size: 3vw;
     animation: shiver 1s linear .5s infinite;
 }
+#content h1 {
+    margin-bottom: 0;
+}
